@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Science Quest Network Test</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#f4f8fb;color:#17324d;display:flex;align-items:center;justify-content:center;min-height:100vh;padding:24px}
+.card{max-width:760px;width:100%;background:white;border:1px solid #d9e4ec;border-radius:24px;padding:28px;box-shadow:0 14px 40px rgba(0,0,0,.08)}
+h1{margin-top:0;font-size:40px}
+.ok{background:#eefaf5;border:2px solid #a8e0ca;border-radius:16px;padding:16px;font-weight:700;color:#126646}
+.row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:20px}
+button{padding:16px;border-radius:14px;border:1px solid #cfdbe5;background:#f7fafc;font-size:16px;font-weight:700;cursor:pointer}
+.primary{background:#6d5dfc;color:white;border-color:#6d5dfc}
+.good{background:#24a98b;color:white;border-color:#24a98b}
+#status{margin-top:18px;padding:16px;border:1px dashed #aabac7;border-radius:14px;min-height:58px}
+@media(max-width:620px){.row{grid-template-columns:1fr}h1{font-size:30px}}
+</style>
+</head>
+<body>
+<main class="card">
+<h1>Science Quest Network Test 🧪</h1>
+<p>This page is a simple test for opening an educational browser game from Wayground.</p>
+<div class="ok">✓ If you can see this page, the website opened successfully.</div>
+<div class="row">
+<button class="primary" id="click">Test Click / Touch</button>
+<button id="keyboard">Test Arrow Keys</button>
+<button class="good" id="save">Test Save Progress</button>
+</div>
+<div id="status">Press a test button.</div>
+</main>
+<script>
+const s=document.getElementById('status');
+document.getElementById('click').addEventListener('click',()=>s.textContent='✓ Click / touch works.');
+let waiting=false;
+document.getElementById('keyboard').addEventListener('click',()=>{waiting=true;s.textContent='Press ↑ ↓ ← or →';});
+window.addEventListener('keydown',e=>{if(waiting&&['ArrowUp','ArrowDown','ArrowLeft','ArrowRight'].includes(e.key)){waiting=false;s.textContent='✓ Keyboard works: '+e.key;}});
+document.getElementById('save').addEventListener('click',()=>{try{localStorage.setItem('scienceQuestTest','ok');s.textContent=localStorage.getItem('scienceQuestTest')==='ok'?'✓ Save progress works.':'Save progress is blocked.';}catch(e){s.textContent='Save progress is blocked, but the game can still run.';}});
+</script>
+</body>
+</html>
