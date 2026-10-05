@@ -1,0 +1,38 @@
+name: Generate Azure voice recordings
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Azure setup
+        env:
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+        run: |
+          if [ -z "$AZURE_SPEECH_KEY" ] || [ -z "$AZURE_SPEECH_REGION" ]; then
+            echo "Add AZURE_SPEECH_KEY and AZURE_SPEECH_REGION in Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+      - name: Install audio validator
+        run: |
+          if ! command -v ffprobe >/dev/null; then
+            sudo apt-get update -qq
+            sudo apt-get install -y ffmpeg
+          fi
+      - name: Generate all 140 Azure MP3 files
+        env:
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+        run: python3 voice-build/generate.py
+      - name: Save completed voice package
+        uses: actions/upload-artifact@v4
+        with:
+          name: azure-voice-output
+          path: azure-voice-output/
+          if-no-files-found: error
+          retention-days: 30
