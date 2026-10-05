@@ -1,0 +1,63 @@
+{
+  "baselineGitBlob": "481e9a93f248444b692c03f8ab0b82cf0441befd",
+  "draft": true,
+  "outputSha256": "3be4c0480d3f0c6c1a4f407e1ad271f133770f2254b191ece1053e5b68ea7c20",
+  "edits": [
+    {
+      "reason": "Replace only the voice manager and add its recording catalogue",
+      "removedBytes": 4207,
+      "addedBytes": 48088
+    },
+    {
+      "reason": "Remove installed-voice dependency",
+      "removedBytes": 63,
+      "addedBytes": 22
+    },
+    {
+      "reason": "Keep failures quiet and preserve text/replay",
+      "removedBytes": 70,
+      "addedBytes": 0
+    },
+    {
+      "reason": "Remove obsolete voice error banner only",
+      "removedBytes": 222,
+      "addedBytes": 0
+    },
+    {
+      "reason": "Map stable event IDs to speaker-specific recordings and preload two likely lines",
+      "removedBytes": 363,
+      "addedBytes": 1984
+    },
+    {
+      "reason": "Replay exactly the current event recording",
+      "removedBytes": 50,
+      "addedBytes": 67
+    },
+    {
+      "reason": "Use existing Start/continue interaction to unlock and preload opening audio",
+      "removedBytes": 26,
+      "addedBytes": 134
+    },
+    {
+      "reason": "Let actual playback completion govern automatic dialogue advance",
+      "removedBytes": 71,
+      "addedBytes": 64
+    },
+    {
+      "reason": "Wait for the current utterance at automatic game timeout",
+      "removedBytes": 20,
+      "addedBytes": 34
+    },
+    {
+      "reason": "Stop dialogue and release audio on page exit",
+      "removedBytes": 31,
+      "addedBytes": 52
+    },
+    {
+      "reason": "Update audio-specific teacher guidance",
+      "removedBytes": 71,
+      "addedBytes": 73
+    }
+  ],
+  "protectedBlocksVerified": 7
+}

@@ -1,0 +1,1178 @@
+{
+  "schema": 1,
+  "ready": false,
+  "baselineGitBlob": "481e9a93f248444b692c03f8ab0b82cf0441befd",
+  "cast": {
+    "Me": {
+      "name": "mariam",
+      "status": "pending-casting"
+    },
+    "Grandma": {
+      "name": "grandma",
+      "status": "pending-casting"
+    },
+    "Grandpa": {
+      "name": "grandpa",
+      "status": "pending-casting"
+    },
+    "Mom": {
+      "name": "mother",
+      "status": "pending-casting"
+    },
+    "Dad": {
+      "name": "father",
+      "status": "pending-casting"
+    },
+    "Brother": {
+      "name": "brother",
+      "status": "pending-casting"
+    },
+    "Sister": {
+      "name": "sister",
+      "status": "pending-casting"
+    },
+    "Question": {
+      "name": "narrator",
+      "status": "pending-casting"
+    },
+    "Saqr": {
+      "name": "saqr",
+      "status": "pending-casting"
+    }
+  },
+  "clips": {
+    "grandma_8f302f12e86882915c2d": {
+      "id": "grandma_8f302f12e86882915c2d",
+      "speaker": "Grandma",
+      "text": "Come down, my dear!",
+      "src": "audio/grandma/grandma_8f302f12e86882915c2d.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_b81aa4d85ab60a2a83c6": {
+      "id": "mariam_b81aa4d85ab60a2a83c6",
+      "speaker": "Me",
+      "text": "Coming, Grandma!",
+      "src": "audio/mariam/mariam_b81aa4d85ab60a2a83c6.mp3",
+      "status": "pending-recording"
+    },
+    "grandma_df018123b7f0a25a8e85": {
+      "id": "grandma_df018123b7f0a25a8e85",
+      "speaker": "Grandma",
+      "text": "Salam, my dear! Help me, please.",
+      "src": "audio/grandma/grandma_df018123b7f0a25a8e85.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_4024f4cd305e80402fd6": {
+      "id": "mariam_4024f4cd305e80402fd6",
+      "speaker": "Me",
+      "text": "Of course, Grandma!",
+      "src": "audio/mariam/mariam_4024f4cd305e80402fd6.mp3",
+      "status": "pending-recording"
+    },
+    "grandma_44889742ee89e776ccc4": {
+      "id": "grandma_44889742ee89e776ccc4",
+      "speaker": "Grandma",
+      "text": "Medicine: only with an adult.",
+      "src": "audio/grandma/grandma_44889742ee89e776ccc4.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_0f4f06998c30e657e5f1": {
+      "id": "mariam_0f4f06998c30e657e5f1",
+      "speaker": "Me",
+      "text": "Pick up the tablet",
+      "src": "audio/mariam/mariam_0f4f06998c30e657e5f1.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_0c0c15a534a6e9bd2316": {
+      "id": "mariam_0c0c15a534a6e9bd2316",
+      "speaker": "Me",
+      "text": "Drop it in water",
+      "src": "audio/mariam/mariam_0c0c15a534a6e9bd2316.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_f5b4658e0f1e67192abc": {
+      "id": "mariam_f5b4658e0f1e67192abc",
+      "speaker": "Me",
+      "text": "Hmm… it is not the same!",
+      "src": "audio/mariam/mariam_f5b4658e0f1e67192abc.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_2cb6138b2084814c49dc": {
+      "id": "narrator_2cb6138b2084814c49dc",
+      "speaker": "Question",
+      "text": "Is it a physical or a chemical change?",
+      "src": "audio/narrator/narrator_2cb6138b2084814c49dc.mp3",
+      "status": "pending-recording"
+    },
+    "saqr_31e89d0999efbcb25bc5": {
+      "id": "saqr_31e89d0999efbcb25bc5",
+      "speaker": "Saqr",
+      "text": "Saqr AI thinks: change in color.",
+      "src": "audio/saqr/saqr_31e89d0999efbcb25bc5.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_fc701b8e2601a0e63926": {
+      "id": "narrator_fc701b8e2601a0e63926",
+      "speaker": "Question",
+      "text": "Is Saqr AI right?",
+      "src": "audio/narrator/narrator_fc701b8e2601a0e63926.mp3",
+      "status": "pending-recording"
+    },
+    "saqr_aeccb558cf3f5caa46df": {
+      "id": "saqr_aeccb558cf3f5caa46df",
+      "speaker": "Saqr",
+      "text": "Saqr AI thinks: change in color. Is Saqr AI right?",
+      "src": "audio/saqr/saqr_aeccb558cf3f5caa46df.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_1692b59f64dc227f572f": {
+      "id": "narrator_1692b59f64dc227f572f",
+      "speaker": "Question",
+      "text": "How do I know? Which sign do I see?",
+      "src": "audio/narrator/narrator_1692b59f64dc227f572f.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_51b87e08f23769f5bcf2": {
+      "id": "mariam_51b87e08f23769f5bcf2",
+      "speaker": "Me",
+      "text": "Bubbles tell me: formation of a gas.",
+      "src": "audio/mariam/mariam_51b87e08f23769f5bcf2.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_4591907764266d7b5101": {
+      "id": "mariam_4591907764266d7b5101",
+      "speaker": "Me",
+      "text": "Picture 1: draw a line.\nCircle New matter ✓.",
+      "src": "audio/mariam/mariam_4591907764266d7b5101.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_07ede43822aa9141db91": {
+      "id": "mariam_07ede43822aa9141db91",
+      "speaker": "Me",
+      "text": "Try a challenge?",
+      "src": "audio/mariam/mariam_07ede43822aa9141db91.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_e20bd04ef13cc0ad1815": {
+      "id": "narrator_e20bd04ef13cc0ad1815",
+      "speaker": "Question",
+      "text": "Which example makes new matter?",
+      "src": "audio/narrator/narrator_e20bd04ef13cc0ad1815.mp3",
+      "status": "pending-recording"
+    },
+    "grandpa_aad2740578b69373211c": {
+      "id": "grandpa_aad2740578b69373211c",
+      "speaker": "Grandpa",
+      "text": "Please share with your sister.",
+      "src": "audio/grandpa/grandpa_aad2740578b69373211c.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_3738f95aaeeec464243d": {
+      "id": "mariam_3738f95aaeeec464243d",
+      "speaker": "Me",
+      "text": "Here you are!",
+      "src": "audio/mariam/mariam_3738f95aaeeec464243d.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_8066345558c0b48f48fd": {
+      "id": "mariam_8066345558c0b48f48fd",
+      "speaker": "Me",
+      "text": "Look carefully at what changed.",
+      "src": "audio/mariam/mariam_8066345558c0b48f48fd.mp3",
+      "status": "pending-recording"
+    },
+    "father_395eb02f38d35aeb14c2": {
+      "id": "father_395eb02f38d35aeb14c2",
+      "speaker": "Dad",
+      "text": "Look at our old gate.",
+      "src": "audio/father/father_395eb02f38d35aeb14c2.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_40841e40a03a04a45cb5": {
+      "id": "mariam_40841e40a03a04a45cb5",
+      "speaker": "Me",
+      "text": "It was shiny. Now it is brown.",
+      "src": "audio/mariam/mariam_40841e40a03a04a45cb5.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_010d2119e8aec01fec0e": {
+      "id": "mariam_010d2119e8aec01fec0e",
+      "speaker": "Me",
+      "text": "Look closer",
+      "src": "audio/mariam/mariam_010d2119e8aec01fec0e.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_c3037535e9965ddbb6b3": {
+      "id": "mariam_c3037535e9965ddbb6b3",
+      "speaker": "Me",
+      "text": "Scrape the rusty patch",
+      "src": "audio/mariam/mariam_c3037535e9965ddbb6b3.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_25940bdccb0a5d48d999": {
+      "id": "mariam_25940bdccb0a5d48d999",
+      "speaker": "Me",
+      "text": "I see a new color.",
+      "src": "audio/mariam/mariam_25940bdccb0a5d48d999.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_0bb5c2c14be97c48e329": {
+      "id": "mariam_0bb5c2c14be97c48e329",
+      "speaker": "Me",
+      "text": "Picture 2: draw a line.\nCircle New matter ✓.",
+      "src": "audio/mariam/mariam_0bb5c2c14be97c48e329.mp3",
+      "status": "pending-recording"
+    },
+    "mother_1ccfc10883af09ff93b3": {
+      "id": "mother_1ccfc10883af09ff93b3",
+      "speaker": "Mom",
+      "text": "Bring the wood, my dear.",
+      "src": "audio/mother/mother_1ccfc10883af09ff93b3.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_4422e944a95120344ff4": {
+      "id": "mariam_4422e944a95120344ff4",
+      "speaker": "Me",
+      "text": "Yes, Mom!",
+      "src": "audio/mariam/mariam_4422e944a95120344ff4.mp3",
+      "status": "pending-recording"
+    },
+    "mother_03613629f3f6cf7447de": {
+      "id": "mother_03613629f3f6cf7447de",
+      "speaker": "Mom",
+      "text": "Fire is for adults. Dad lights it.",
+      "src": "audio/mother/mother_03613629f3f6cf7447de.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_c2226a954cb40007102d": {
+      "id": "mariam_c2226a954cb40007102d",
+      "speaker": "Me",
+      "text": "Pick up three logs",
+      "src": "audio/mariam/mariam_c2226a954cb40007102d.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_96973a2a5d39f84bc5b2": {
+      "id": "mariam_96973a2a5d39f84bc5b2",
+      "speaker": "Me",
+      "text": "Put wood in the fire pit",
+      "src": "audio/mariam/mariam_96973a2a5d39f84bc5b2.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_556c2eea9a03fc4cb469": {
+      "id": "narrator_556c2eea9a03fc4cb469",
+      "speaker": "Question",
+      "text": "How do I know? Which sign do I feel?",
+      "src": "audio/narrator/narrator_556c2eea9a03fc4cb469.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_80b69f9141e8a9c001c1": {
+      "id": "mariam_80b69f9141e8a9c001c1",
+      "speaker": "Me",
+      "text": "I feel heat. Temperature change!",
+      "src": "audio/mariam/mariam_80b69f9141e8a9c001c1.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_bbad424873739f2a093f": {
+      "id": "mariam_bbad424873739f2a093f",
+      "speaker": "Me",
+      "text": "Picture 3: draw a line.\nCircle New matter ✓.",
+      "src": "audio/mariam/mariam_bbad424873739f2a093f.mp3",
+      "status": "pending-recording"
+    },
+    "mother_3d3d4a8fc2e4db2e9edd": {
+      "id": "mother_3d3d4a8fc2e4db2e9edd",
+      "speaker": "Mom",
+      "text": "Who wants marshmallows?",
+      "src": "audio/mother/mother_3d3d4a8fc2e4db2e9edd.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_b87f580fc5bc32a3fd78": {
+      "id": "mariam_b87f580fc5bc32a3fd78",
+      "speaker": "Me",
+      "text": "Me, please!",
+      "src": "audio/mariam/mariam_b87f580fc5bc32a3fd78.mp3",
+      "status": "pending-recording"
+    },
+    "mother_e6d08940636f648d265e": {
+      "id": "mother_e6d08940636f648d265e",
+      "speaker": "Mom",
+      "text": "Keep your hands away from the fire.",
+      "src": "audio/mother/mother_e6d08940636f648d265e.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_44607d5ca896fc8e9b45": {
+      "id": "mariam_44607d5ca896fc8e9b45",
+      "speaker": "Me",
+      "text": "Take the marshmallow stick",
+      "src": "audio/mariam/mariam_44607d5ca896fc8e9b45.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_63247e547ba1c2cd4d12": {
+      "id": "mariam_63247e547ba1c2cd4d12",
+      "speaker": "Me",
+      "text": "Hold over the coals",
+      "src": "audio/mariam/mariam_63247e547ba1c2cd4d12.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_91465143ba9c4328c2a8": {
+      "id": "narrator_91465143ba9c4328c2a8",
+      "speaker": "Question",
+      "text": "How do I know? Which sign do I smell?",
+      "src": "audio/narrator/narrator_91465143ba9c4328c2a8.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_22acd9c91e347fb2bcd1": {
+      "id": "mariam_22acd9c91e347fb2bcd1",
+      "speaker": "Me",
+      "text": "New smell. Change in odor!",
+      "src": "audio/mariam/mariam_22acd9c91e347fb2bcd1.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_4bf8a244ce2a1c249159": {
+      "id": "mariam_4bf8a244ce2a1c249159",
+      "speaker": "Me",
+      "text": "Picture 4: draw a line.\nCircle New matter ✓.",
+      "src": "audio/mariam/mariam_4bf8a244ce2a1c249159.mp3",
+      "status": "pending-recording"
+    },
+    "mother_bb6828427aa29462d50c": {
+      "id": "mother_bb6828427aa29462d50c",
+      "speaker": "Mom",
+      "text": "Please wash your sticky hands.",
+      "src": "audio/mother/mother_bb6828427aa29462d50c.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_5d7acb9b804f11f03d86": {
+      "id": "mariam_5d7acb9b804f11f03d86",
+      "speaker": "Me",
+      "text": "I wash my hands.",
+      "src": "audio/mariam/mariam_5d7acb9b804f11f03d86.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_a7fb7d59d41d264e9cde": {
+      "id": "mariam_a7fb7d59d41d264e9cde",
+      "speaker": "Me",
+      "text": "Wash hands",
+      "src": "audio/mariam/mariam_a7fb7d59d41d264e9cde.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_cf62bd94db510b29ea1d": {
+      "id": "mariam_cf62bd94db510b29ea1d",
+      "speaker": "Me",
+      "text": "Look closer at the tap",
+      "src": "audio/mariam/mariam_cf62bd94db510b29ea1d.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_d93ffa189dfaee5383e8": {
+      "id": "mariam_d93ffa189dfaee5383e8",
+      "speaker": "Me",
+      "text": "Soap scum is a new solid.",
+      "src": "audio/mariam/mariam_d93ffa189dfaee5383e8.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_a7c90ce365bd93ca6f38": {
+      "id": "mariam_a7c90ce365bd93ca6f38",
+      "speaker": "Me",
+      "text": "Picture 5: draw a line.\nCircle New matter ✓.",
+      "src": "audio/mariam/mariam_a7c90ce365bd93ca6f38.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_b47b13dcdf6dad331aca": {
+      "id": "mariam_b47b13dcdf6dad331aca",
+      "speaker": "Me",
+      "text": "Well done! Explore the house now.",
+      "src": "audio/mariam/mariam_b47b13dcdf6dad331aca.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_5038657dfc2a1ab378f4": {
+      "id": "mariam_5038657dfc2a1ab378f4",
+      "speaker": "Me",
+      "text": "The banana turns brown.",
+      "src": "audio/mariam/mariam_5038657dfc2a1ab378f4.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_e223f3be1287c9d646da": {
+      "id": "mariam_e223f3be1287c9d646da",
+      "speaker": "Me",
+      "text": "Chemical or physical?",
+      "src": "audio/mariam/mariam_e223f3be1287c9d646da.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_b2ba51527d62950ae6e8": {
+      "id": "mariam_b2ba51527d62950ae6e8",
+      "speaker": "Me",
+      "text": "Try again. Look carefully at what changed.",
+      "src": "audio/mariam/mariam_b2ba51527d62950ae6e8.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_7832925f697cb506a0ad": {
+      "id": "mariam_7832925f697cb506a0ad",
+      "speaker": "Me",
+      "text": "Which evidence supports our answer?",
+      "src": "audio/mariam/mariam_7832925f697cb506a0ad.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_08106a02c0a66f979b35": {
+      "id": "mariam_08106a02c0a66f979b35",
+      "speaker": "Me",
+      "text": "New matter forms in the brown part.",
+      "src": "audio/mariam/mariam_08106a02c0a66f979b35.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_a543ead73d491de855b2": {
+      "id": "mariam_a543ead73d491de855b2",
+      "speaker": "Me",
+      "text": "Grandpa's silver dallah turns dark.",
+      "src": "audio/mariam/mariam_a543ead73d491de855b2.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_bb5a6626050f07e4ee58": {
+      "id": "mariam_bb5a6626050f07e4ee58",
+      "speaker": "Me",
+      "text": "A new dark layer forms.",
+      "src": "audio/mariam/mariam_bb5a6626050f07e4ee58.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_bdc208270015181545fa": {
+      "id": "mariam_bdc208270015181545fa",
+      "speaker": "Me",
+      "text": "Grandma burns incense.",
+      "src": "audio/mariam/mariam_bdc208270015181545fa.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_2b166224dbfbb16bf698": {
+      "id": "mariam_2b166224dbfbb16bf698",
+      "speaker": "Me",
+      "text": "Burning makes a new smell.",
+      "src": "audio/mariam/mariam_2b166224dbfbb16bf698.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_93f538cb783a00d06a00": {
+      "id": "mariam_93f538cb783a00d06a00",
+      "speaker": "Me",
+      "text": "Hot Arabic coffee cools down.",
+      "src": "audio/mariam/mariam_93f538cb783a00d06a00.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_77fc4dedb4731db0a6f4": {
+      "id": "mariam_77fc4dedb4731db0a6f4",
+      "speaker": "Me",
+      "text": "It is still coffee.",
+      "src": "audio/mariam/mariam_77fc4dedb4731db0a6f4.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_4c0e7dbb8d37ccbdec83": {
+      "id": "mariam_4c0e7dbb8d37ccbdec83",
+      "speaker": "Me",
+      "text": "Sugar dissolves in tea.",
+      "src": "audio/mariam/mariam_4c0e7dbb8d37ccbdec83.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_1435841f330fd8a4196e": {
+      "id": "mariam_1435841f330fd8a4196e",
+      "speaker": "Me",
+      "text": "It is still sugar.",
+      "src": "audio/mariam/mariam_1435841f330fd8a4196e.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_41279d68a7c621bb6bc4": {
+      "id": "narrator_41279d68a7c621bb6bc4",
+      "speaker": "Question",
+      "text": "Bubbles. Formation of a gas.",
+      "src": "audio/narrator/narrator_41279d68a7c621bb6bc4.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_bce95477d88f162781aa": {
+      "id": "narrator_bce95477d88f162781aa",
+      "speaker": "Question",
+      "text": "New color. Change in color.",
+      "src": "audio/narrator/narrator_bce95477d88f162781aa.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_1c595bd68a1863387ab0": {
+      "id": "narrator_1c595bd68a1863387ab0",
+      "speaker": "Question",
+      "text": "I feel heat. Temperature change.",
+      "src": "audio/narrator/narrator_1c595bd68a1863387ab0.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_78b481c22681fb4f7f48": {
+      "id": "narrator_78b481c22681fb4f7f48",
+      "speaker": "Question",
+      "text": "New smell. Change in odor.",
+      "src": "audio/narrator/narrator_78b481c22681fb4f7f48.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_3f6374c5889f518cddb6": {
+      "id": "narrator_3f6374c5889f518cddb6",
+      "speaker": "Question",
+      "text": "New solid. Formation of a solid.",
+      "src": "audio/narrator/narrator_3f6374c5889f518cddb6.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_835c580d40f6f0232538": {
+      "id": "narrator_835c580d40f6f0232538",
+      "speaker": "Question",
+      "text": "New matter: chemical. Same matter: physical.",
+      "src": "audio/narrator/narrator_835c580d40f6f0232538.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_7324086617930f83e47f": {
+      "id": "narrator_7324086617930f83e47f",
+      "speaker": "Question",
+      "text": "Which sign do I see?",
+      "src": "audio/narrator/narrator_7324086617930f83e47f.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_2a56f395a3144538c585": {
+      "id": "narrator_2a56f395a3144538c585",
+      "speaker": "Question",
+      "text": "Ice cream melts in the sun.",
+      "src": "audio/narrator/narrator_2a56f395a3144538c585.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_4ba00ebaac44dda565da": {
+      "id": "narrator_4ba00ebaac44dda565da",
+      "speaker": "Question",
+      "text": "Which sign do I FEEL?",
+      "src": "audio/narrator/narrator_4ba00ebaac44dda565da.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_6ecf4c20a24246fb30ab": {
+      "id": "narrator_6ecf4c20a24246fb30ab",
+      "speaker": "Question",
+      "text": "Which sign do I SMELL?",
+      "src": "audio/narrator/narrator_6ecf4c20a24246fb30ab.mp3",
+      "status": "pending-recording"
+    },
+    "grandpa_6962a511c0321e268814": {
+      "id": "grandpa_6962a511c0321e268814",
+      "speaker": "Grandpa",
+      "text": "Well done, my dears! You think like scientists!",
+      "src": "audio/grandpa/grandpa_6962a511c0321e268814.mp3",
+      "status": "pending-recording"
+    },
+    "grandpa_f7267bd4118dfff6b506": {
+      "id": "grandpa_f7267bd4118dfff6b506",
+      "speaker": "Grandpa",
+      "text": "Time is up! Eyes on your teacher. Then swap papers with Group 2.",
+      "src": "audio/grandpa/grandpa_f7267bd4118dfff6b506.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_8b946c1abe1e1cb30574": {
+      "id": "mariam_8b946c1abe1e1cb30574",
+      "speaker": "Me",
+      "text": "Change in color",
+      "src": "audio/mariam/mariam_8b946c1abe1e1cb30574.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_4e86bb72e34cdd976a45": {
+      "id": "mariam_4e86bb72e34cdd976a45",
+      "speaker": "Me",
+      "text": "Change in odor",
+      "src": "audio/mariam/mariam_4e86bb72e34cdd976a45.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_8122145c131f50289103": {
+      "id": "mariam_8122145c131f50289103",
+      "speaker": "Me",
+      "text": "Temperature change",
+      "src": "audio/mariam/mariam_8122145c131f50289103.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_1116d9f19cc1a677ccef": {
+      "id": "mariam_1116d9f19cc1a677ccef",
+      "speaker": "Me",
+      "text": "Formation of a gas",
+      "src": "audio/mariam/mariam_1116d9f19cc1a677ccef.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_c13f5c277600589549ef": {
+      "id": "mariam_c13f5c277600589549ef",
+      "speaker": "Me",
+      "text": "Formation of a solid",
+      "src": "audio/mariam/mariam_c13f5c277600589549ef.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_0b626c909409640e2db6": {
+      "id": "mariam_0b626c909409640e2db6",
+      "speaker": "Me",
+      "text": "The gas was already inside.",
+      "src": "audio/mariam/mariam_0b626c909409640e2db6.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_2aea5dea5fee5d981f8b": {
+      "id": "mariam_2aea5dea5fee5d981f8b",
+      "speaker": "Me",
+      "text": "It is still water.",
+      "src": "audio/mariam/mariam_2aea5dea5fee5d981f8b.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_9f488faeeeadce2ba48e": {
+      "id": "mariam_9f488faeeeadce2ba48e",
+      "speaker": "Me",
+      "text": "Picture 1: draw a line.\nWrite the sign.",
+      "src": "audio/mariam/mariam_9f488faeeeadce2ba48e.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_93f48b93b037f40ce33d": {
+      "id": "mariam_93f48b93b037f40ce33d",
+      "speaker": "Me",
+      "text": "Picture 2: draw a line.\nWrite the sign.",
+      "src": "audio/mariam/mariam_93f48b93b037f40ce33d.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_e369735d57c2150c2a20": {
+      "id": "mariam_e369735d57c2150c2a20",
+      "speaker": "Me",
+      "text": "Picture 3: draw a line.\nWrite the sign.",
+      "src": "audio/mariam/mariam_e369735d57c2150c2a20.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_d8d9abb00f9e2c09bb60": {
+      "id": "mariam_d8d9abb00f9e2c09bb60",
+      "speaker": "Me",
+      "text": "Picture 4: draw a line.\nWrite the sign.",
+      "src": "audio/mariam/mariam_d8d9abb00f9e2c09bb60.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_b6f436972ed2b37f95b2": {
+      "id": "mariam_b6f436972ed2b37f95b2",
+      "speaker": "Me",
+      "text": "Picture 5: draw a line.\nWrite the sign.",
+      "src": "audio/mariam/mariam_b6f436972ed2b37f95b2.mp3",
+      "status": "pending-recording"
+    },
+    "grandpa_6ba09e7d5af83aea8ac1": {
+      "id": "grandpa_6ba09e7d5af83aea8ac1",
+      "speaker": "Grandpa",
+      "text": "Time is up! Eyes on your teacher. Then swap papers with Group 1.",
+      "src": "audio/grandpa/grandpa_6ba09e7d5af83aea8ac1.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_e7516a7f5045301d4d37": {
+      "id": "narrator_e7516a7f5045301d4d37",
+      "speaker": "Question",
+      "text": "What did I observe?",
+      "src": "audio/narrator/narrator_e7516a7f5045301d4d37.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_b10909eaf1ec403dfa08": {
+      "id": "mariam_b10909eaf1ec403dfa08",
+      "speaker": "Me",
+      "text": "Fill row 3.",
+      "src": "audio/mariam/mariam_b10909eaf1ec403dfa08.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_cb3b8e99b663a4edbca1": {
+      "id": "mariam_cb3b8e99b663a4edbca1",
+      "speaker": "Me",
+      "text": "Fill row 4.",
+      "src": "audio/mariam/mariam_cb3b8e99b663a4edbca1.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_c8982fb520dcbef8af04": {
+      "id": "mariam_c8982fb520dcbef8af04",
+      "speaker": "Me",
+      "text": "Fill row 5.",
+      "src": "audio/mariam/mariam_c8982fb520dcbef8af04.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_427b92c6f4efce30810f": {
+      "id": "mariam_427b92c6f4efce30810f",
+      "speaker": "Me",
+      "text": "Fill row 6.",
+      "src": "audio/mariam/mariam_427b92c6f4efce30810f.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_b40a61e4371ee31e6086": {
+      "id": "mariam_b40a61e4371ee31e6086",
+      "speaker": "Me",
+      "text": "Fill row 7.",
+      "src": "audio/mariam/mariam_b40a61e4371ee31e6086.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_d1506ece4849951c753f": {
+      "id": "narrator_d1506ece4849951c753f",
+      "speaker": "Question",
+      "text": "Milk turns sour.",
+      "src": "audio/narrator/narrator_d1506ece4849951c753f.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_f7fe4fafddffba00b41d": {
+      "id": "narrator_f7fe4fafddffba00b41d",
+      "speaker": "Question",
+      "text": "I cut paper into pieces.",
+      "src": "audio/narrator/narrator_f7fe4fafddffba00b41d.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_a97c83cc7012cd3a7e68": {
+      "id": "narrator_a97c83cc7012cd3a7e68",
+      "speaker": "Question",
+      "text": "Lemon juice on baking soda.",
+      "src": "audio/narrator/narrator_a97c83cc7012cd3a7e68.mp3",
+      "status": "pending-recording"
+    },
+    "grandpa_918d54e3a1eba85b0bd5": {
+      "id": "grandpa_918d54e3a1eba85b0bd5",
+      "speaker": "Grandpa",
+      "text": "Time is up! Eyes on your teacher. Then swap papers with Group 4.",
+      "src": "audio/grandpa/grandpa_918d54e3a1eba85b0bd5.mp3",
+      "status": "pending-recording"
+    },
+    "father_14c8e6a5fe0196caa229": {
+      "id": "father_14c8e6a5fe0196caa229",
+      "speaker": "Dad",
+      "text": "Let us paint this bench blue.",
+      "src": "audio/father/father_14c8e6a5fe0196caa229.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_84f10224f1bc3ff67aa4": {
+      "id": "mariam_84f10224f1bc3ff67aa4",
+      "speaker": "Me",
+      "text": "Paint the bench",
+      "src": "audio/mariam/mariam_84f10224f1bc3ff67aa4.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_8a7d6bc4e98a609bc9e8": {
+      "id": "narrator_8a7d6bc4e98a609bc9e8",
+      "speaker": "Question",
+      "text": "Is it a physical or chemical change?",
+      "src": "audio/narrator/narrator_8a7d6bc4e98a609bc9e8.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_31d7809e57196250ec3c": {
+      "id": "narrator_31d7809e57196250ec3c",
+      "speaker": "Question",
+      "text": "How do I know?",
+      "src": "audio/narrator/narrator_31d7809e57196250ec3c.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_c4fd2d4f87bb05ffd8f9": {
+      "id": "mariam_c4fd2d4f87bb05ffd8f9",
+      "speaker": "Me",
+      "text": "Paint only covers the wood.",
+      "src": "audio/mariam/mariam_c4fd2d4f87bb05ffd8f9.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_e129c8a2cb4967b7c017": {
+      "id": "mariam_e129c8a2cb4967b7c017",
+      "speaker": "Me",
+      "text": "Fill rows 4 and 5.",
+      "src": "audio/mariam/mariam_e129c8a2cb4967b7c017.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_5ae768db6e3529ddb5bd": {
+      "id": "mariam_5ae768db6e3529ddb5bd",
+      "speaker": "Me",
+      "text": "Fill row 8.",
+      "src": "audio/mariam/mariam_5ae768db6e3529ddb5bd.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_8c4629a50d1c1a1fdac2": {
+      "id": "narrator_8c4629a50d1c1a1fdac2",
+      "speaker": "Question",
+      "text": "Two clear liquids mix.",
+      "src": "audio/narrator/narrator_8c4629a50d1c1a1fdac2.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_2c73e7e65d9d0ced08e7": {
+      "id": "narrator_2c73e7e65d9d0ced08e7",
+      "speaker": "Question",
+      "text": "Dad paints the wall blue.",
+      "src": "audio/narrator/narrator_2c73e7e65d9d0ced08e7.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_224b7498b78f9d21d31a": {
+      "id": "narrator_224b7498b78f9d21d31a",
+      "speaker": "Question",
+      "text": "A cut apple turns brown.",
+      "src": "audio/narrator/narrator_224b7498b78f9d21d31a.mp3",
+      "status": "pending-recording"
+    },
+    "grandpa_f7755b7368d36cc6724a": {
+      "id": "grandpa_f7755b7368d36cc6724a",
+      "speaker": "Grandpa",
+      "text": "Time is up! Eyes on your teacher. Then swap papers with Group 3.",
+      "src": "audio/grandpa/grandpa_f7755b7368d36cc6724a.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_7c80c351a45a809a5fae": {
+      "id": "narrator_7c80c351a45a809a5fae",
+      "speaker": "Question",
+      "text": "From the image, what do you see as a sign of a chemical change?",
+      "src": "audio/narrator/narrator_7c80c351a45a809a5fae.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_4ce1bf8698640de07bed": {
+      "id": "narrator_4ce1bf8698640de07bed",
+      "speaker": "Question",
+      "text": "Why is it a chemical change?",
+      "src": "audio/narrator/narrator_4ce1bf8698640de07bed.mp3",
+      "status": "pending-recording"
+    },
+    "brother_c1b95f1d6a438186e4b0": {
+      "id": "brother_c1b95f1d6a438186e4b0",
+      "speaker": "Brother",
+      "text": "Look! My drink has bubbles too.",
+      "src": "audio/brother/brother_c1b95f1d6a438186e4b0.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_12d0721ba120c1689a45": {
+      "id": "mariam_12d0721ba120c1689a45",
+      "speaker": "Me",
+      "text": "Open and pour the soda",
+      "src": "audio/mariam/mariam_12d0721ba120c1689a45.mp3",
+      "status": "pending-recording"
+    },
+    "saqr_7e94073997a1ac80f3e6": {
+      "id": "saqr_7e94073997a1ac80f3e6",
+      "speaker": "Saqr",
+      "text": "Saqr AI: soda is a chemical change.",
+      "src": "audio/saqr/saqr_7e94073997a1ac80f3e6.mp3",
+      "status": "pending-recording"
+    },
+    "saqr_c8a90e24ca638626375f": {
+      "id": "saqr_c8a90e24ca638626375f",
+      "speaker": "Saqr",
+      "text": "Saqr AI: soda is a chemical change. Is Saqr AI right?",
+      "src": "audio/saqr/saqr_c8a90e24ca638626375f.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_922a224ff64dc981d662": {
+      "id": "mariam_922a224ff64dc981d662",
+      "speaker": "Me",
+      "text": "Fill rows 3 and 4. Add why.",
+      "src": "audio/mariam/mariam_922a224ff64dc981d662.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_0c67f8ec2d95c83b40b4": {
+      "id": "mariam_0c67f8ec2d95c83b40b4",
+      "speaker": "Me",
+      "text": "Fill rows 5 and 6. Add why.",
+      "src": "audio/mariam/mariam_0c67f8ec2d95c83b40b4.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_bda0c6412b597fff4b08": {
+      "id": "narrator_bda0c6412b597fff4b08",
+      "speaker": "Question",
+      "text": "What do you feel as a sign of a chemical change?",
+      "src": "audio/narrator/narrator_bda0c6412b597fff4b08.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_d5fbeb9c3f4ea44c56e1": {
+      "id": "mariam_d5fbeb9c3f4ea44c56e1",
+      "speaker": "Me",
+      "text": "Fill row 7. Add why.",
+      "src": "audio/mariam/mariam_d5fbeb9c3f4ea44c56e1.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_e972ff6a9e5748e81828": {
+      "id": "narrator_e972ff6a9e5748e81828",
+      "speaker": "Question",
+      "text": "What do you smell as a sign of a chemical change?",
+      "src": "audio/narrator/narrator_e972ff6a9e5748e81828.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_b66b53a988fbf8bf292d": {
+      "id": "mariam_b66b53a988fbf8bf292d",
+      "speaker": "Me",
+      "text": "Fill row 8. Add why.",
+      "src": "audio/mariam/mariam_b66b53a988fbf8bf292d.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_febebc9e64e4acd53030": {
+      "id": "mariam_febebc9e64e4acd53030",
+      "speaker": "Me",
+      "text": "Fill row 9. Add why.",
+      "src": "audio/mariam/mariam_febebc9e64e4acd53030.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_c5c06a148e38e1def343": {
+      "id": "narrator_c5c06a148e38e1def343",
+      "speaker": "Question",
+      "text": "I open a soda can.",
+      "src": "audio/narrator/narrator_c5c06a148e38e1def343.mp3",
+      "status": "pending-recording"
+    },
+    "grandpa_15551ca4b4e486e8dcd1": {
+      "id": "grandpa_15551ca4b4e486e8dcd1",
+      "speaker": "Grandpa",
+      "text": "Time is up! Eyes on your teacher. Then swap papers with Group 6.",
+      "src": "audio/grandpa/grandpa_15551ca4b4e486e8dcd1.mp3",
+      "status": "pending-recording"
+    },
+    "sister_2283975d465bcff3ef1b": {
+      "id": "sister_2283975d465bcff3ef1b",
+      "speaker": "Sister",
+      "text": "Look! The ice in my juice melts.",
+      "src": "audio/sister/sister_2283975d465bcff3ef1b.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_51d5713a4a7ab8e4d702": {
+      "id": "mariam_51d5713a4a7ab8e4d702",
+      "speaker": "Me",
+      "text": "Watch the ice melt",
+      "src": "audio/mariam/mariam_51d5713a4a7ab8e4d702.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_8f634eff2b43a8b90fd7": {
+      "id": "narrator_8f634eff2b43a8b90fd7",
+      "speaker": "Question",
+      "text": "Can temperature change in a physical change?",
+      "src": "audio/narrator/narrator_8f634eff2b43a8b90fd7.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_5a9b8e3c4bd318f262e3": {
+      "id": "mariam_5a9b8e3c4bd318f262e3",
+      "speaker": "Me",
+      "text": "Fill rows 7 and 8. Add why.",
+      "src": "audio/mariam/mariam_5a9b8e3c4bd318f262e3.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_fbd88cd1125bb3db1399": {
+      "id": "mariam_fbd88cd1125bb3db1399",
+      "speaker": "Me",
+      "text": "Fill row 10. Add why.",
+      "src": "audio/mariam/mariam_fbd88cd1125bb3db1399.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_fa18ef957f1a6cafd5c7": {
+      "id": "narrator_fa18ef957f1a6cafd5c7",
+      "speaker": "Question",
+      "text": "Identify physical changes. I. A glass breaks.\nII. Paper burns.\nIII. Butter melts.",
+      "src": "audio/narrator/narrator_fa18ef957f1a6cafd5c7.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_3ed7c25f78df9c12d940": {
+      "id": "narrator_3ed7c25f78df9c12d940",
+      "speaker": "Question",
+      "text": "Identify physical changes. I. A glass breaks. II. Paper burns. III. Butter melts.",
+      "src": "audio/narrator/narrator_3ed7c25f78df9c12d940.mp3",
+      "status": "pending-recording"
+    },
+    "grandpa_b0767bdb4179e1f972aa": {
+      "id": "grandpa_b0767bdb4179e1f972aa",
+      "speaker": "Grandpa",
+      "text": "Time is up! Eyes on your teacher. Then swap papers with Group 5.",
+      "src": "audio/grandpa/grandpa_b0767bdb4179e1f972aa.mp3",
+      "status": "pending-recording"
+    },
+    "narrator_cceda2d8fd59926fba1b": {
+      "id": "narrator_cceda2d8fd59926fba1b",
+      "speaker": "Question",
+      "text": "Look carefully at the evidence.",
+      "src": "audio/narrator/narrator_cceda2d8fd59926fba1b.mp3",
+      "status": "pending-recording"
+    },
+    "mariam_b7ff38a368c7202bb7a2": {
+      "id": "mariam_b7ff38a368c7202bb7a2",
+      "speaker": "Me",
+      "text": "I am ready to explore!",
+      "src": "audio/mariam/mariam_b7ff38a368c7202bb7a2.mp3",
+      "status": "pending-recording"
+    },
+    "grandma_80265cff046e23cba056": {
+      "id": "grandma_80265cff046e23cba056",
+      "speaker": "Grandma",
+      "text": "Salam, my dear!",
+      "src": "audio/grandma/grandma_80265cff046e23cba056.mp3",
+      "status": "pending-recording"
+    },
+    "grandpa_8a7673f9332e2851ab30": {
+      "id": "grandpa_8a7673f9332e2851ab30",
+      "speaker": "Grandpa",
+      "text": "You think like scientists!",
+      "src": "audio/grandpa/grandpa_8a7673f9332e2851ab30.mp3",
+      "status": "pending-recording"
+    },
+    "mother_95eb80cb5f8dc12bd8ae": {
+      "id": "mother_95eb80cb5f8dc12bd8ae",
+      "speaker": "Mom",
+      "text": "Come and help me, my dear.",
+      "src": "audio/mother/mother_95eb80cb5f8dc12bd8ae.mp3",
+      "status": "pending-recording"
+    },
+    "father_5e4eda6bb631d3fc40aa": {
+      "id": "father_5e4eda6bb631d3fc40aa",
+      "speaker": "Dad",
+      "text": "Let us look at the old gate.",
+      "src": "audio/father/father_5e4eda6bb631d3fc40aa.mp3",
+      "status": "pending-recording"
+    },
+    "brother_44b34d4f0c29a7107dae": {
+      "id": "brother_44b34d4f0c29a7107dae",
+      "speaker": "Brother",
+      "text": "My drink has bubbles too.",
+      "src": "audio/brother/brother_44b34d4f0c29a7107dae.mp3",
+      "status": "pending-recording"
+    },
+    "sister_efb14f2a83be2d7784d8": {
+      "id": "sister_efb14f2a83be2d7784d8",
+      "speaker": "Sister",
+      "text": "Look! My ice is melting.",
+      "src": "audio/sister/sister_efb14f2a83be2d7784d8.mp3",
+      "status": "pending-recording"
+    },
+    "saqr_121e8af9c9de083d9e40": {
+      "id": "saqr_121e8af9c9de083d9e40",
+      "speaker": "Saqr",
+      "text": "Check my idea using the evidence.",
+      "src": "audio/saqr/saqr_121e8af9c9de083d9e40.mp3",
+      "status": "pending-recording"
+    }
+  },
+  "lookup": {
+    "[\"Grandma\",\"Come down, my dear!\"]": "grandma_8f302f12e86882915c2d",
+    "[\"Me\",\"Coming, Grandma!\"]": "mariam_b81aa4d85ab60a2a83c6",
+    "[\"Grandma\",\"Salam, my dear! Help me, please.\"]": "grandma_df018123b7f0a25a8e85",
+    "[\"Me\",\"Of course, Grandma!\"]": "mariam_4024f4cd305e80402fd6",
+    "[\"Grandma\",\"Medicine: only with an adult.\"]": "grandma_44889742ee89e776ccc4",
+    "[\"Me\",\"Pick up the tablet\"]": "mariam_0f4f06998c30e657e5f1",
+    "[\"Me\",\"Drop it in water\"]": "mariam_0c0c15a534a6e9bd2316",
+    "[\"Me\",\"Hmm… it is not the same!\"]": "mariam_f5b4658e0f1e67192abc",
+    "[\"Question\",\"Is it a physical or a chemical change?\"]": "narrator_2cb6138b2084814c49dc",
+    "[\"Saqr\",\"Saqr AI thinks: change in color.\"]": "saqr_31e89d0999efbcb25bc5",
+    "[\"Question\",\"Is Saqr AI right?\"]": "narrator_fc701b8e2601a0e63926",
+    "[\"Saqr\",\"Saqr AI thinks: change in color. Is Saqr AI right?\"]": "saqr_aeccb558cf3f5caa46df",
+    "[\"Question\",\"How do I know? Which sign do I see?\"]": "narrator_1692b59f64dc227f572f",
+    "[\"Me\",\"Bubbles tell me: formation of a gas.\"]": "mariam_51b87e08f23769f5bcf2",
+    "[\"Me\",\"Picture 1: draw a line.\\nCircle New matter ✓.\"]": "mariam_4591907764266d7b5101",
+    "[\"Me\",\"Try a challenge?\"]": "mariam_07ede43822aa9141db91",
+    "[\"Question\",\"Which example makes new matter?\"]": "narrator_e20bd04ef13cc0ad1815",
+    "[\"Grandpa\",\"Please share with your sister.\"]": "grandpa_aad2740578b69373211c",
+    "[\"Me\",\"Here you are!\"]": "mariam_3738f95aaeeec464243d",
+    "[\"Me\",\"Look carefully at what changed.\"]": "mariam_8066345558c0b48f48fd",
+    "[\"Dad\",\"Look at our old gate.\"]": "father_395eb02f38d35aeb14c2",
+    "[\"Me\",\"It was shiny. Now it is brown.\"]": "mariam_40841e40a03a04a45cb5",
+    "[\"Me\",\"Look closer\"]": "mariam_010d2119e8aec01fec0e",
+    "[\"Me\",\"Scrape the rusty patch\"]": "mariam_c3037535e9965ddbb6b3",
+    "[\"Me\",\"I see a new color.\"]": "mariam_25940bdccb0a5d48d999",
+    "[\"Me\",\"Picture 2: draw a line.\\nCircle New matter ✓.\"]": "mariam_0bb5c2c14be97c48e329",
+    "[\"Mom\",\"Bring the wood, my dear.\"]": "mother_1ccfc10883af09ff93b3",
+    "[\"Me\",\"Yes, Mom!\"]": "mariam_4422e944a95120344ff4",
+    "[\"Mom\",\"Fire is for adults. Dad lights it.\"]": "mother_03613629f3f6cf7447de",
+    "[\"Me\",\"Pick up three logs\"]": "mariam_c2226a954cb40007102d",
+    "[\"Me\",\"Put wood in the fire pit\"]": "mariam_96973a2a5d39f84bc5b2",
+    "[\"Question\",\"How do I know? Which sign do I feel?\"]": "narrator_556c2eea9a03fc4cb469",
+    "[\"Me\",\"I feel heat. Temperature change!\"]": "mariam_80b69f9141e8a9c001c1",
+    "[\"Me\",\"Picture 3: draw a line.\\nCircle New matter ✓.\"]": "mariam_bbad424873739f2a093f",
+    "[\"Mom\",\"Who wants marshmallows?\"]": "mother_3d3d4a8fc2e4db2e9edd",
+    "[\"Me\",\"Me, please!\"]": "mariam_b87f580fc5bc32a3fd78",
+    "[\"Mom\",\"Keep your hands away from the fire.\"]": "mother_e6d08940636f648d265e",
+    "[\"Me\",\"Take the marshmallow stick\"]": "mariam_44607d5ca896fc8e9b45",
+    "[\"Me\",\"Hold over the coals\"]": "mariam_63247e547ba1c2cd4d12",
+    "[\"Question\",\"How do I know? Which sign do I smell?\"]": "narrator_91465143ba9c4328c2a8",
+    "[\"Me\",\"New smell. Change in odor!\"]": "mariam_22acd9c91e347fb2bcd1",
+    "[\"Me\",\"Picture 4: draw a line.\\nCircle New matter ✓.\"]": "mariam_4bf8a244ce2a1c249159",
+    "[\"Mom\",\"Please wash your sticky hands.\"]": "mother_bb6828427aa29462d50c",
+    "[\"Me\",\"I wash my hands.\"]": "mariam_5d7acb9b804f11f03d86",
+    "[\"Me\",\"Wash hands\"]": "mariam_a7fb7d59d41d264e9cde",
+    "[\"Me\",\"Look closer at the tap\"]": "mariam_cf62bd94db510b29ea1d",
+    "[\"Me\",\"Soap scum is a new solid.\"]": "mariam_d93ffa189dfaee5383e8",
+    "[\"Me\",\"Picture 5: draw a line.\\nCircle New matter ✓.\"]": "mariam_a7c90ce365bd93ca6f38",
+    "[\"Me\",\"Well done! Explore the house now.\"]": "mariam_b47b13dcdf6dad331aca",
+    "[\"Me\",\"The banana turns brown.\"]": "mariam_5038657dfc2a1ab378f4",
+    "[\"Me\",\"Chemical or physical?\"]": "mariam_e223f3be1287c9d646da",
+    "[\"Me\",\"Try again. Look carefully at what changed.\"]": "mariam_b2ba51527d62950ae6e8",
+    "[\"Me\",\"Which evidence supports our answer?\"]": "mariam_7832925f697cb506a0ad",
+    "[\"Me\",\"New matter forms in the brown part.\"]": "mariam_08106a02c0a66f979b35",
+    "[\"Me\",\"Grandpa's silver dallah turns dark.\"]": "mariam_a543ead73d491de855b2",
+    "[\"Me\",\"A new dark layer forms.\"]": "mariam_bb5a6626050f07e4ee58",
+    "[\"Me\",\"Grandma burns incense.\"]": "mariam_bdc208270015181545fa",
+    "[\"Me\",\"Burning makes a new smell.\"]": "mariam_2b166224dbfbb16bf698",
+    "[\"Me\",\"Hot Arabic coffee cools down.\"]": "mariam_93f538cb783a00d06a00",
+    "[\"Me\",\"It is still coffee.\"]": "mariam_77fc4dedb4731db0a6f4",
+    "[\"Me\",\"Sugar dissolves in tea.\"]": "mariam_4c0e7dbb8d37ccbdec83",
+    "[\"Me\",\"It is still sugar.\"]": "mariam_1435841f330fd8a4196e",
+    "[\"Question\",\"Bubbles. Formation of a gas.\"]": "narrator_41279d68a7c621bb6bc4",
+    "[\"Question\",\"New color. Change in color.\"]": "narrator_bce95477d88f162781aa",
+    "[\"Question\",\"I feel heat. Temperature change.\"]": "narrator_1c595bd68a1863387ab0",
+    "[\"Question\",\"New smell. Change in odor.\"]": "narrator_78b481c22681fb4f7f48",
+    "[\"Question\",\"New solid. Formation of a solid.\"]": "narrator_3f6374c5889f518cddb6",
+    "[\"Question\",\"New matter: chemical. Same matter: physical.\"]": "narrator_835c580d40f6f0232538",
+    "[\"Question\",\"Which sign do I see?\"]": "narrator_7324086617930f83e47f",
+    "[\"Question\",\"Ice cream melts in the sun.\"]": "narrator_2a56f395a3144538c585",
+    "[\"Question\",\"Which sign do I FEEL?\"]": "narrator_4ba00ebaac44dda565da",
+    "[\"Question\",\"Which sign do I SMELL?\"]": "narrator_6ecf4c20a24246fb30ab",
+    "[\"Grandpa\",\"Well done, my dears! You think like scientists!\"]": "grandpa_6962a511c0321e268814",
+    "[\"Grandpa\",\"Time is up! Eyes on your teacher. Then swap papers with Group 2.\"]": "grandpa_f7267bd4118dfff6b506",
+    "[\"Me\",\"Change in color\"]": "mariam_8b946c1abe1e1cb30574",
+    "[\"Me\",\"Change in odor\"]": "mariam_4e86bb72e34cdd976a45",
+    "[\"Me\",\"Temperature change\"]": "mariam_8122145c131f50289103",
+    "[\"Me\",\"Formation of a gas\"]": "mariam_1116d9f19cc1a677ccef",
+    "[\"Me\",\"Formation of a solid\"]": "mariam_c13f5c277600589549ef",
+    "[\"Me\",\"The gas was already inside.\"]": "mariam_0b626c909409640e2db6",
+    "[\"Me\",\"It is still water.\"]": "mariam_2aea5dea5fee5d981f8b",
+    "[\"Me\",\"Picture 1: draw a line.\\nWrite the sign.\"]": "mariam_9f488faeeeadce2ba48e",
+    "[\"Me\",\"Picture 2: draw a line.\\nWrite the sign.\"]": "mariam_93f48b93b037f40ce33d",
+    "[\"Me\",\"Picture 3: draw a line.\\nWrite the sign.\"]": "mariam_e369735d57c2150c2a20",
+    "[\"Me\",\"Picture 4: draw a line.\\nWrite the sign.\"]": "mariam_d8d9abb00f9e2c09bb60",
+    "[\"Me\",\"Picture 5: draw a line.\\nWrite the sign.\"]": "mariam_b6f436972ed2b37f95b2",
+    "[\"Grandpa\",\"Time is up! Eyes on your teacher. Then swap papers with Group 1.\"]": "grandpa_6ba09e7d5af83aea8ac1",
+    "[\"Question\",\"What did I observe?\"]": "narrator_e7516a7f5045301d4d37",
+    "[\"Me\",\"Fill row 3.\"]": "mariam_b10909eaf1ec403dfa08",
+    "[\"Me\",\"Fill row 4.\"]": "mariam_cb3b8e99b663a4edbca1",
+    "[\"Me\",\"Fill row 5.\"]": "mariam_c8982fb520dcbef8af04",
+    "[\"Me\",\"Fill row 6.\"]": "mariam_427b92c6f4efce30810f",
+    "[\"Me\",\"Fill row 7.\"]": "mariam_b40a61e4371ee31e6086",
+    "[\"Question\",\"Milk turns sour.\"]": "narrator_d1506ece4849951c753f",
+    "[\"Question\",\"I cut paper into pieces.\"]": "narrator_f7fe4fafddffba00b41d",
+    "[\"Question\",\"Lemon juice on baking soda.\"]": "narrator_a97c83cc7012cd3a7e68",
+    "[\"Grandpa\",\"Time is up! Eyes on your teacher. Then swap papers with Group 4.\"]": "grandpa_918d54e3a1eba85b0bd5",
+    "[\"Dad\",\"Let us paint this bench blue.\"]": "father_14c8e6a5fe0196caa229",
+    "[\"Me\",\"Paint the bench\"]": "mariam_84f10224f1bc3ff67aa4",
+    "[\"Question\",\"Is it a physical or chemical change?\"]": "narrator_8a7d6bc4e98a609bc9e8",
+    "[\"Question\",\"How do I know?\"]": "narrator_31d7809e57196250ec3c",
+    "[\"Me\",\"Paint only covers the wood.\"]": "mariam_c4fd2d4f87bb05ffd8f9",
+    "[\"Me\",\"Fill rows 4 and 5.\"]": "mariam_e129c8a2cb4967b7c017",
+    "[\"Me\",\"Fill row 8.\"]": "mariam_5ae768db6e3529ddb5bd",
+    "[\"Question\",\"Two clear liquids mix.\"]": "narrator_8c4629a50d1c1a1fdac2",
+    "[\"Question\",\"Dad paints the wall blue.\"]": "narrator_2c73e7e65d9d0ced08e7",
+    "[\"Question\",\"A cut apple turns brown.\"]": "narrator_224b7498b78f9d21d31a",
+    "[\"Grandpa\",\"Time is up! Eyes on your teacher. Then swap papers with Group 3.\"]": "grandpa_f7755b7368d36cc6724a",
+    "[\"Question\",\"From the image, what do you see as a sign of a chemical change?\"]": "narrator_7c80c351a45a809a5fae",
+    "[\"Question\",\"Why is it a chemical change?\"]": "narrator_4ce1bf8698640de07bed",
+    "[\"Brother\",\"Look! My drink has bubbles too.\"]": "brother_c1b95f1d6a438186e4b0",
+    "[\"Me\",\"Open and pour the soda\"]": "mariam_12d0721ba120c1689a45",
+    "[\"Saqr\",\"Saqr AI: soda is a chemical change.\"]": "saqr_7e94073997a1ac80f3e6",
+    "[\"Saqr\",\"Saqr AI: soda is a chemical change. Is Saqr AI right?\"]": "saqr_c8a90e24ca638626375f",
+    "[\"Me\",\"Fill rows 3 and 4. Add why.\"]": "mariam_922a224ff64dc981d662",
+    "[\"Me\",\"Fill rows 5 and 6. Add why.\"]": "mariam_0c67f8ec2d95c83b40b4",
+    "[\"Question\",\"What do you feel as a sign of a chemical change?\"]": "narrator_bda0c6412b597fff4b08",
+    "[\"Me\",\"Fill row 7. Add why.\"]": "mariam_d5fbeb9c3f4ea44c56e1",
+    "[\"Question\",\"What do you smell as a sign of a chemical change?\"]": "narrator_e972ff6a9e5748e81828",
+    "[\"Me\",\"Fill row 8. Add why.\"]": "mariam_b66b53a988fbf8bf292d",
+    "[\"Me\",\"Fill row 9. Add why.\"]": "mariam_febebc9e64e4acd53030",
+    "[\"Question\",\"I open a soda can.\"]": "narrator_c5c06a148e38e1def343",
+    "[\"Grandpa\",\"Time is up! Eyes on your teacher. Then swap papers with Group 6.\"]": "grandpa_15551ca4b4e486e8dcd1",
+    "[\"Sister\",\"Look! The ice in my juice melts.\"]": "sister_2283975d465bcff3ef1b",
+    "[\"Me\",\"Watch the ice melt\"]": "mariam_51d5713a4a7ab8e4d702",
+    "[\"Question\",\"Can temperature change in a physical change?\"]": "narrator_8f634eff2b43a8b90fd7",
+    "[\"Me\",\"Fill rows 7 and 8. Add why.\"]": "mariam_5a9b8e3c4bd318f262e3",
+    "[\"Me\",\"Fill row 10. Add why.\"]": "mariam_fbd88cd1125bb3db1399",
+    "[\"Question\",\"Identify physical changes. I. A glass breaks.\\nII. Paper burns.\\nIII. Butter melts.\"]": "narrator_fa18ef957f1a6cafd5c7",
+    "[\"Question\",\"Identify physical changes. I. A glass breaks. II. Paper burns. III. Butter melts.\"]": "narrator_3ed7c25f78df9c12d940",
+    "[\"Grandpa\",\"Time is up! Eyes on your teacher. Then swap papers with Group 5.\"]": "grandpa_b0767bdb4179e1f972aa",
+    "[\"Question\",\"Look carefully at the evidence.\"]": "narrator_cceda2d8fd59926fba1b",
+    "[\"Me\",\"I am ready to explore!\"]": "mariam_b7ff38a368c7202bb7a2",
+    "[\"Grandma\",\"Salam, my dear!\"]": "grandma_80265cff046e23cba056",
+    "[\"Grandpa\",\"You think like scientists!\"]": "grandpa_8a7673f9332e2851ab30",
+    "[\"Mom\",\"Come and help me, my dear.\"]": "mother_95eb80cb5f8dc12bd8ae",
+    "[\"Dad\",\"Let us look at the old gate.\"]": "father_5e4eda6bb631d3fc40aa",
+    "[\"Brother\",\"My drink has bubbles too.\"]": "brother_44b34d4f0c29a7107dae",
+    "[\"Sister\",\"Look! My ice is melting.\"]": "sister_efb14f2a83be2d7784d8",
+    "[\"Saqr\",\"Check my idea using the evidence.\"]": "saqr_121e8af9c9de083d9e40"
+  },
+  "tests": {
+    "Question": "narrator_cceda2d8fd59926fba1b",
+    "Me": "mariam_b7ff38a368c7202bb7a2",
+    "Grandma": "grandma_80265cff046e23cba056",
+    "Grandpa": "grandpa_8a7673f9332e2851ab30",
+    "Mom": "mother_95eb80cb5f8dc12bd8ae",
+    "Dad": "father_5e4eda6bb631d3fc40aa",
+    "Brother": "brother_44b34d4f0c29a7107dae",
+    "Sister": "sister_efb14f2a83be2d7784d8",
+    "Saqr": "saqr_121e8af9c9de083d9e40"
+  }
+}
